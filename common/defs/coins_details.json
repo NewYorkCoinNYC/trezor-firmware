@@ -521,7 +521,7 @@
                 }
             ]
         },
-        "bitcoin:NEWYORKCOIN": {
+        "bitcoin:NYC": {
             "links": {
                 "Github": "https://github.com/NewYorkCoinNYC/newyorkcoin",
                 "Homepage": "https://newyorkcoin.net"
